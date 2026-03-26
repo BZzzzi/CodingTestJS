@@ -17,3 +17,7 @@ for (let charNum of result) {
 for (let i = 0; i < arr.length; i++) {
   console.log(arr[i]);
 }
+
+/**
+ * 링크: https://www.acmicpc.net/problem/2577
+ */

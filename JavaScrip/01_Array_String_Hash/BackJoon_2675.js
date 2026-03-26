@@ -15,3 +15,7 @@ for (let i = 1; i <= T; i++) {
 
   console.log(result);
 }
+
+/**
+ * 링크: https://www.acmicpc.net/problem/2675
+ */
